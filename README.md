@@ -12,8 +12,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-<div!
-[](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
+<div!>
+<p> [](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png) </p>
 </div>
 </body>
 </html>
