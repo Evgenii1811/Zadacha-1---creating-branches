@@ -1,19 +1,17 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My-diplom</title>
-<link rel="stylesheet" href="css/style.css">
-</head>
-<body>
+## Описание проекта NeuroStartUp:
 
-<head>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-<div!>
-<p> [](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png) </p>
-</div>
-</body>
-</html>
+![logo](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
+
+NeuroStartUp — динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта.
+
+## Наши преимущества:
+* Высокая точность поиска
+* Высокая скорость поиска
+* Низкая цена
+
+## Мы на столько крутые, что уже успели поработать со следующими компаниями:
+1. ООО «Рога и копыта»
+2. Издательство «Читый лист»
+3. Космопорт «Черезтерновый Кзвёздный»
+4. Дизайн-студия имени Слишком Известного Персонажа
+
